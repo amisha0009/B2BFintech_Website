@@ -1,2 +1,1 @@
-Hello everyone ,This is my first push  and using git.
-And this is really fun.
+Hi everyone ,I have created a bussiness to busssiness portal using html,css and javascript.
